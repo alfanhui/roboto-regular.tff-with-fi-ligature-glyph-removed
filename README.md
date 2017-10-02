@@ -6,12 +6,14 @@ I AM NOT RESPONSIBLE IF YOU FUCK UP YOUR DEVICE. PROCEED AT YOUR OWN RISK.
 To install:
 
 1.Root Android device.
+
 2.Install SuperSU on the device.
+
 3.Install a file manager app that supports Root file read/write on the device.
+
 4.Copy Roboto-Regular.ttf to device.
+
 5.Copy Roboto-Regular.ttf to /system/fonts/ on device using root on the file manager.
+
 *Warning: The device may crash. This is because the main font has been changed. Please reboot manually via power button.*
-
-Upon reboot, the device should have switched to the updated font with out 'fi' ligature. 
-
-Worked for my Nexus 5X.
+Upon reboot, the device should have switched to the updated font with out 'fi' ligature. Worked for my Nexus 5X.
