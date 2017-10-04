@@ -17,3 +17,8 @@ To install:
 
 *Warning: The device may crash. This is because the main font has been changed. Please reboot manually via power button.*
 Upon reboot, the device should have switched to the updated font with out 'fi' ligature. Worked for my Nexus 5X.
+
+
+![original](https://github.com/alfanhui/roboto-regular.tff-with-fi-ligature-glyph-removed/blob/master/original.png?raw=true)
+
+![modified](https://github.com/alfanhui/roboto-regular.tff-with-fi-ligature-glyph-removed/blob/master/modified.png?raw=true)
