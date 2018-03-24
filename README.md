@@ -1,7 +1,7 @@
 # roboto-regular.tff-with-fi-ligature-glyph-removed
 On Android, the system font is Roboto. This font uses a ligature glyph for the combination of 'f' + 'i' characters. Frequently, the combination of the standalone 'f' + standalone 'i' will end up in conflict: the overhanging portion of the 'f' will collide with the dot of the 'i'. However, it is unnecessary and causes a unnatural pairing in my opinion. Here is a replacement font with the 'fi', 'fl', 'ffi', 'ffl' glyph's removed. 
 
-I AM NOT RESPONSIBLE IF YOU FUCK UP YOUR DEVICE. PROCEED AT YOUR OWN RISK.
+I AM NOT RESPONSIBLE IF YOU MESS UP YOUR DEVICE. PROCEED AT YOUR OWN RISK.
 
 To install:
 
